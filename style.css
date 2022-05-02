@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: #CCCC33;
+}
+
+header {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.heading-text {
+  color: gray;
+  padding: 20px 0 0 20px;
+}
+
+.list {
+ padding: 50px 0 50px 0;  
+ display: flex;
+ justify-content: center;
+}
+
+.list-box{
+  width: 840px;
+}
+
+
+.list-section {
+  margin-bottom: 30px;
+  border-bottom: 1px solid silver;
+  padding-bottom: 30px;  
+}
